@@ -143,7 +143,7 @@ export const pi = 3.14159265359;
 ```jsx
 / 모듈 가져오기
 import { add, pi } from './my-module';
->
+
 console.log(add(1, 2)); // 출력: 3
 console.log(pi); // 출력: 3.14159265359
 ```

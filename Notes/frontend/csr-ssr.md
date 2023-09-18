@@ -22,7 +22,7 @@
 **`장점`**
 
 - 초기 페이지 **로딩이 빠르다.**
-- **효율적인 SEO(Search Engine Optimization)**이 가능하다.
+- **효율적인 SEO(Search Engine Optimization)** 이 가능하다.
 
 **`단점`**
 

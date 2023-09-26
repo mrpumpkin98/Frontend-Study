@@ -1,1 +1,23 @@
-# Frontend-Study
+# 📝 이모저모 개발 공부
+
+## 0️⃣ 프론트엔드 전반
+- [BOM 과 DOM](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/bom-dom.md)
+- [CI/CD](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/ci-cd.md)
+- [CSR과 SSR](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/csr-ssr.md)
+- [모듈 번들러](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/module_bundler.md)
+- [모듈 시스템](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/module_system.md)
+- [브라우저의 렌더링 원리](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/path_in_browser.md)
+- [트랜스파일러](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/transpiler.md)
+## 1️⃣ Javascript
+- [화살표 함수](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/arrow_function.md)
+- [Promise와 Callback의 차이점](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/promise_callback.md)
+- [Var, Let, Const의 차이점](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/var_let_const.md)
+## 2️⃣ React
+- [Lifecycle](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/react/lifecycle_1.md)
+- [React 함수형 컴포넌트와 Lifecycle](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/react/lifecycle_2.md)
+- [Redux](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/react/redux.md)
+## 3️⃣ 네트워크
+- [HTTP](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/network/http.md)
+- [웹소켓(WebSocket)](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/network/webSocket.md)
+## 4️⃣ Git
+- [Git 관리 1탄](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/git/git_management.md)

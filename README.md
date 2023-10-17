@@ -10,6 +10,7 @@
 - [트랜스파일러](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/transpiler.md)
 - [이미지 캐싱](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/Image-cache.md)
 - [CSRF, XSS 방어](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/csrf-xss.md)
+- [동기와 비동기](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/frontend/synchronous-asynchronous.md)
 ## 1️⃣ Javascript
 - [화살표 함수](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/arrow_function.md)
 - [Promise와 Callback의 차이점](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/promise_callback.md)

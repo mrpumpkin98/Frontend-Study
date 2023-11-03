@@ -26,3 +26,5 @@
 - [Git 관리 1탄](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/git/git_management.md)
 ## 5️⃣ CSS
 - [Storybook](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/css/storybook.md)
+## 6️⃣ 알고리즘
+- [자료구조와 알고리즘_기초](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/algorithms/dataStructures_algorithms(basic).md)

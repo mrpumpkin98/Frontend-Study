@@ -17,7 +17,7 @@
 - [화살표 함수](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/arrow_function.md)
 - [Promise와 Callback의 차이점](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/promise_callback.md)
 - [Var, Let, Const의 차이점](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/var_let_const.md)
-- [this](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/this.md)
+- [This](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/javascript/this.md)
 ## 2️⃣ React
 - [Lifecycle](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/react/lifecycle_1.md)
 - [React 함수형 컴포넌트와 Lifecycle](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/react/lifecycle_2.md)

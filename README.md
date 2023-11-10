@@ -25,6 +25,7 @@
 ## 3️⃣ 네트워크
 - [HTTP](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/network/http.md)
 - [웹소켓(WebSocket)](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/network/webSocket.md)
+- [SSE(Server-Sent-Event)](https://github.com/mrpumpkin98/Frontend_study/blob/master/Notes/network/sse.md)
 ## 4️⃣ Git
 - [Git 관리 1탄](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/git/git_management.md)
 ## 5️⃣ CSS

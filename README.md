@@ -32,3 +32,4 @@
 - [Storybook](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/css/storybook.md)
 ## 6️⃣ 알고리즘
 - [자료구조와 알고리즘_기초](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/algorithms/dataStructures_algorithms(basic).md)
+- [자료구조와 알고리즘_배열](https://github.com/mrpumpkin98/Frontend_study/blob/master/Notes/algorithms/arrangement.md)

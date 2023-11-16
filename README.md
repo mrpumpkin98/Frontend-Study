@@ -22,6 +22,8 @@
 - [Lifecycle](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/react/lifecycle_1.md)
 - [React 함수형 컴포넌트와 Lifecycle](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/react/lifecycle_2.md)
 - [Redux](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/react/redux.md)
+- [메모이제이션](https://github.com/mrpumpkin98/Frontend_study/blob/master/Notes/react/memoization.md)
+- [Props Drilling 과 Key Props](https://github.com/mrpumpkin98/Frontend_study/blob/master/Notes/react/propsDrilling_keyProps.md)
 ## 3️⃣ 네트워크
 - [HTTP](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/network/http.md)
 - [웹소켓(WebSocket)](https://github.com/mrpumpkin98/Frontend-Study/blob/master/Notes/network/webSocket.md)
